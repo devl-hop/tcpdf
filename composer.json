@@ -13,6 +13,7 @@
             "homepage": "http://nicolaasuni.tecnick.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
